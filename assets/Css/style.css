@@ -1,0 +1,48 @@
+.jumbotron {
+    width: 75%;
+    margin: 0 auto;
+    border-radius: 10px;
+    background: #221177;
+    color: white;
+    text-align: center;
+}
+
+.jumbotron h1{
+    font-weight: bolder;
+}
+.card {
+    width: 75%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.card-header{
+    background: black;
+    color: white;
+    border-radius: 10px;
+}
+.article-dump {
+    background: lightgrey;
+    padding: 20px;
+    border-radius: 10px;
+}
+#article-number{
+    background: black;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.btn {
+    background: darkgray;
+    border: none;
+    
+    
+}
+.btn:hover {
+    background: gray;
+    border: 1px solid #221177;
+    
+}
+    
+    
